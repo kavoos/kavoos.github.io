@@ -1,0 +1,16 @@
+{
+  "name": "Kavoos Boloorchi",
+  "short_name": "Kavoos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101212",
+  "theme_color": "#101212",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
